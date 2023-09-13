@@ -1,2 +1,2 @@
- # Repositorio para practicar git pull
+ # Repositorio para practicar git pull(freeCodeCamp)
 Ejemplo del comando git pull
